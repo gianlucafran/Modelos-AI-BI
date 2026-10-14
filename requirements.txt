@@ -1,0 +1,8 @@
+# Dependencias comunes a la mayoría de los modelos del repositorio
+# (Aprendizaje Automático, Visión Computacional y PLN clásico).
+# Instalación: pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
